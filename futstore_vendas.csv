@@ -1,0 +1,58 @@
+id_venda,data,nome_cliente,produto,categoria,time,quantidade,preco_unitario,custo_unitario,forma_pagamento,vendedor,regiao
+1,2024-01-05,Mariana Dias,Boné Oficial,Acessório,Santos,1,89.9,30.0,Cartão Débito,João Santos,Sul
+2,2024-01-07,Vitor Barbosa,Boné Oficial,Acessório,Internacional,1,89.9,30.0,Cartão Crédito,Ana Lima,Sudeste
+3,2024-01-10,Natalia Gomes,Chuteira Campo,Chuteira,São Paulo,1,459.9,195.0,Dinheiro,Pedro Rocha,Sul
+4,2024-01-12,Eduardo Teixeira,Shorts Treino,Shorts,Palmeiras,1,119.9,45.0,Boleto,Carla Mendes,Nordeste
+5,2024-01-15,Ana Lima,Chuteira Campo,Chuteira,Corinthians,3,459.9,195.0,Boleto,Ana Lima,Nordeste
+6,2024-01-18,,Bola Retrô,Bola,Fluminense,3,199.9,75.0,Dinheiro,Ana Lima,Centro-Oeste
+7,2024-01-20,Felipe Ramos,Camisa Retrô,Camisa,Cruzeiro,3,349.9,130.0,PIX,Fernanda Luz,Sul
+8,2024-01-22,Priscila Leal,Boné Oficial,Acessório,São Paulo,1,89.9,30.0,PIX,Ana Lima,Sul
+9,2024-01-25,Thiago Santos,Camisa Reserva,Camisa,Grêmio,3,259.9,95.0,Cartão Débito,Carla Mendes,Nordeste
+10,2024-01-28,Gustavo Faria,Chuteira Futsal,Chuteira,Corinthians,3,319.9,135.0,Dinheiro,João Santos,Norte
+11,2024-02-03,Thiago Santos,Cachecol,Acessório,Internacional,2,79.9,25.0,PIX,Fernanda Luz,Sul
+12,2024-02-06,Beatriz Nunes,Caneca,Acessório,Flamengo,1,49.9,15.0,PIX,Pedro Rocha,Nordeste
+13,2024-02-09,Lucas Alves,Camisa Titular,Camisa,Fluminense,3,299.9,110.0,Boleto,Pedro Rocha,Sul
+14,2024-02-12,Mariana Dias,Bola Oficial,Bola,Athletico-PR,2,249.9,90.0,Dinheiro,Carla Mendes,Norte
+15,2024-02-14,Beatriz Nunes,Shorts Treino,Shorts,Palmeiras,3,119.9,45.0,Dinheiro,Pedro Rocha,Sudeste
+16,2024-02-17,Felipe Ramos,Camisa Titular,Camisa,Palmeiras,2,299.9,110.0,Boleto,Fernanda Luz,Sudeste
+17,2024-02-20,Renato Pinto,Shorts Treino,Shorts,Santos,4,119.9,45.0,Dinheiro,Ana Lima,Sudeste
+18,2024-02-23,Ana Lima,Caneca,Acessório,Santos,3,49.9,15.0,Boleto,João Santos,Centro-Oeste
+19,2024-02-26,Renato Pinto,Camisa Retrô,Camisa,Palmeiras,3,349.9,130.0,Dinheiro,Ana Lima,Nordeste
+20,2024-03-02,Juliana Ferreira,Cachecol,Acessório,Palmeiras,2,79.9,25.0,Dinheiro,Fernanda Luz,Sudeste
+21,2024-03-05,Carlos Silva,Meião Treino,Meião,Corinthians,4,49.9,16.0,PIX,Carla Mendes,Sul
+22,2024-03-08,João Pereira,Camisa Titular,Camisa,Fluminense,1,299.9,110.0,Cartão Crédito,Fernanda Luz,Sul
+23,2024-03-11,Natalia Gomes,Chuteira Futsal,Chuteira,Palmeiras,4,319.9,135.0,PIX,Fernanda Luz,Norte
+24,2024-03-15,Gustavo Faria,Shorts Oficial,Shorts,Santos,2,149.9,55.0,Boleto,Carla Mendes,Centro-Oeste
+25,2024-03-18,Beatriz Nunes,Meião Treino,Meião,São Paulo,1,49.9,16.0,Cartão Crédito,Carla Mendes,Sudeste
+26,2024-03-22,Carlos Silva,Meião Oficial,Meião,Corinthians,2,59.9,20.0,Cartão Crédito,João Santos,Sudeste
+27,2024-03-25,Renato Pinto,Camisa Reserva,Camisa,São Paulo,1,259.9,95.0,PIX,Pedro Rocha,Sul
+28,2024-03-29,Beatriz Nunes,Meião Oficial,Meião,Fluminense,4,59.9,20.0,Boleto,João Santos,Sudeste
+29,2024-04-01,Juliana Ferreira,Camisa Retrô,Camisa,Internacional,4,349.9,130.0,Boleto,Pedro Rocha,Sudeste
+30,2024-04-04,Bruno Oliveira,Boné Oficial,Acessório,Grêmio,1,89.9,30.0,Cartão Crédito,João Santos,Sul
+31,2024-04-08,,Chuteira Futsal,Chuteira,Internacional,4,319.9,135.0,Cartão Débito,Carla Mendes,Centro-Oeste
+32,2024-04-11,Natalia Gomes,Chuteira Campo,Chuteira,Corinthians,4,459.9,195.0,Cartão Crédito,Fernanda Luz,Sudeste
+33,2024-04-14,Larissa Mendes,Camisa Titular,Camisa,Fluminense,2,299.9,110.0,Boleto,João Santos,Centro-Oeste
+34,2024-04-18,Carlos Silva,Camisa Titular,Camisa,Internacional,4,299.9,110.0,PIX,Pedro Rocha,Nordeste
+35,2024-04-22,Lucas Alves,Shorts Treino,Shorts,Santos,2,119.9,45.0,Cartão Débito,Ana Lima,Norte
+36,2024-04-25,Maria Souza,Boné Oficial,Acessório,Flamengo,3,89.9,30.0,Dinheiro,Pedro Rocha,Norte
+37,2024-04-28,Renato Pinto,Meião Oficial,Meião,Corinthians,1,59.9,20.0,Cartão Débito,Ana Lima,Norte
+38,2024-05-02,Bruno Oliveira,Camisa Retrô,Camisa,Corinthians,2,349.9,130.0,Dinheiro,João Santos,Norte
+39,2024-05-05,Larissa Mendes,Meião Oficial,Meião,Cruzeiro,1,59.9,20.0,Dinheiro,Fernanda Luz,Nordeste
+40,2024-05-09,Beatriz Nunes,Bola Oficial,Bola,Santos,3,249.9,90.0,Boleto,João Santos,Nordeste
+41,2024-05-12,Carlos Silva,Shorts Treino,Shorts,Fluminense,1,119.9,45.0,Dinheiro,Fernanda Luz,Sudeste
+42,2024-05-16,Renato Pinto,Camisa Retrô,Camisa,Santos,2,349.9,130.0,Cartão Débito,Carla Mendes,Sudeste
+43,2024-05-20,Fernanda Rocha,Chuteira Society,Chuteira,Fluminense,3,389.9,165.0,Dinheiro,Carla Mendes,Norte
+44,2024-05-23,Priscila Leal,Boné Oficial,Acessório,Corinthians,3,89.9,30.0,Cartão Débito,Carla Mendes,Sudeste
+45,2024-05-27,Rafael Moura,Camisa Retrô,Camisa,Santos,2,349.9,130.0,Dinheiro,João Santos,Nordeste
+46,2024-06-01,Renato Pinto,Chuteira Futsal,Chuteira,Fluminense,3,319.9,135.0,PIX,Ana Lima,Sudeste
+47,2024-06-05,Maria Souza,Chaveiro,Acessório,Flamengo,3,29.9,8.0,PIX,João Santos,Nordeste
+48,2024-06-08,Natalia Gomes,Chuteira Futsal,Chuteira,Internacional,4,319.9,135.0,Dinheiro,Ana Lima,Sudeste
+49,2024-06-12,Natalia Gomes,Camisa Retrô,Camisa,Flamengo,2,349.9,130.0,PIX,Fernanda Luz,Norte
+50,2024-06-15,Maria Souza,Chuteira Society,Chuteira,Santos,2,389.9,165.0,PIX,Ana Lima,Nordeste
+51,2024-06-19,Priscila Leal,Chuteira Futsal,Chuteira,Corinthians,2,319.9,135.0,PIX,Fernanda Luz,Centro-Oeste
+52,2024-06-22,Fernanda Rocha,Meião Oficial,Meião,Palmeiras,2,59.9,20.0,Boleto,Ana Lima,Sul
+53,2024-06-26,Priscila Leal,Caneca,Acessório,São Paulo,4,49.9,15.0,PIX,João Santos,Sudeste
+54,2024-06-30,Beatriz Nunes,Shorts Oficial,Shorts,São Paulo,4,149.9,55.0,Boleto,Carla Mendes,Nordeste
+3,2024-01-10,Natalia Gomes,Chuteira Campo,Chuteira,São Paulo,1,459.9,195.0,Dinheiro,Pedro Rocha,Sul
+11,2024-02-03,Thiago Santos,Cachecol,Acessório,Internacional,2,79.9,25.0,PIX,Fernanda Luz,Sul
+26,2024-03-22,Carlos Silva,Meião Oficial,Meião,Corinthians,2,59.9,20.0,Cartão Crédito,João Santos,Sudeste
